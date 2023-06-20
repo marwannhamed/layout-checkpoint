@@ -291,3 +291,24 @@ nav {
 .btn {
   margin-left: 650px;
 }
+.ppp {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 12px;
+  font-family: Roboto, Arial, sans-serif;
+  color: #ababab;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.ap {
+  text-decoration: none;
+}
+.ppp2 {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 12px;
+  font-family: Roboto, Arial, sans-serif;
+  color: #ababab;
+  padding-left: 100px;
+  padding-right: 100px;
+}
